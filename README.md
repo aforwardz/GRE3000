@@ -1,2 +1,2 @@
-# GRE3000
+＃ 功能：
 Help for reciting GRE words
