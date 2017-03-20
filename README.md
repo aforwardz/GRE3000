@@ -1,4 +1,4 @@
-功能：
+# 功能：
 
-Help for reciting GRE words
+## Help for reciting GRE words
 
